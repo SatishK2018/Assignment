@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="tests">
+  <test name="ChromeTest">
+    <classes>
+      <class name="com.ibm.assignment.day7.Exercise3_ParallelTestRun_Chrome"/>
+    </classes>
+  </test> <!-- Test1 -->
+  
+  <test name="FirefoxTest">
+    <classes>
+      <class name="com.ibm.assignment.day7.Exercise3_ParallelTestRun_Firefox"/>
+    </classes>
+  </test> <!-- Test1 -->
+  
+</suite> <!-- Suite -->
